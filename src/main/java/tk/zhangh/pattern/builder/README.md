@@ -4,6 +4,9 @@
 
 ![builder.jpeg](https://i.loli.net/2017/09/04/59acf245d97e3.jpeg)
 
+![Builder.jpg](https://i.loli.net/2017/09/19/59c092378d7c0.jpg)
+
+
 ### 四个角色
 - 产品类：待构造的对象，本例中的 EmailSendMain
 - 抽象建造者：定义构造抽象接口，本例子中的 Builder
